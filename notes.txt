@@ -13,8 +13,8 @@ Thursday after lunch 🤗
 README
   > with instructions to setup stripe
 validations
-testing
+testing 
 refactor seeds to be more prof'
 styling? < less important
-STRIPE IT
-make M'prof -Sean
+STRIPE IT √
+make M'prof -Sean √
