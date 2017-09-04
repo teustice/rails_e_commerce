@@ -31,7 +31,7 @@ PUB_KEY = "public key"
 SEC_KEY = "secret key"
 ```
 
-
+### Screenshots
 ### Authors
 Sean Pierce, Tanner Eustice
 
