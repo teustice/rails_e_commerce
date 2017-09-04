@@ -31,7 +31,15 @@ PUB_KEY = "public key"
 SEC_KEY = "secret key"
 ```
 
-### Screenshots
+### Page Views
+
+_Product List:_
+![](https://github.com/teustice/rails_e_commerce/blob/master/app/assets/images/Screen%20Shot%202017-09-04%20at%202.16.51%20PM.png)
+_Product Page:_
+![](https://github.com/teustice/rails_e_commerce/blob/master/app/assets/images/Screen%20Shot%202017-09-04%20at%202.17.59%20PM.png)
+_Cart Page:_
+![](https://github.com/teustice/rails_e_commerce/blob/master/app/assets/images/Screen%20Shot%202017-09-04%20at%202.18.20%20PM.png)
+
 ### Authors
 Sean Pierce, Tanner Eustice
 
